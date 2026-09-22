@@ -1,0 +1,16 @@
+{
+  "$schema": "file:///C:/Users/azert/Desktop/MinecraftWorld-Distro/schemas/ServerMetaSchema.schema.json",
+  "meta": {
+    "version": "1.0.0",
+    "name": "Minecraft World",
+    "description": "Minecraft World - Serveur Survie 1.20.1",
+    "icon": "",
+    "address": "91.197.6.234:22013",
+    "mainServer": true,
+    "autoconnect": true
+  },
+  "forge": {
+    "version": "47.4.20"
+  },
+  "untrackedFiles": []
+}
