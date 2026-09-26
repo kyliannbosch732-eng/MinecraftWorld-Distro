@@ -428,6 +428,16 @@
           ]
         },
         {
+          "id": "net.blay09.mods:balm:7.3.44@jar",
+          "name": "Balm",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 561741,
+            "url": "https://kyliannbosch732-eng.github.io/MinecraftWorld-Distro/servers/MinecraftWorld-1.20.1/forgemods/required/balm-forge-1.20.1-7.3.44.jar",
+            "MD5": "1f438ba183dbe403336c8bef9445ce31"
+          }
+        },
+        {
           "id": "me.jellysquid.mods.sodium.client:embeddium:0.3.32-beta.9999+mc1.20.1@jar",
           "name": "Embeddium",
           "type": "ForgeMod",
@@ -455,6 +465,26 @@
             "size": 2851119,
             "url": "https://kyliannbosch732-eng.github.io/MinecraftWorld-Distro/servers/MinecraftWorld-1.20.1/forgemods/required/oculus-mc1.20.1-1.8.0.jar",
             "MD5": "1dd891634ac21591b5a692471f112572"
+          }
+        },
+        {
+          "id": "de.maxhenkel.voicechat:voicechat:1.20.1-2.6.24@jar",
+          "name": "Simple Voice Chat",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 4939842,
+            "url": "https://kyliannbosch732-eng.github.io/MinecraftWorld-Distro/servers/MinecraftWorld-1.20.1/forgemods/required/voicechat-forge-1.20.1-2.6.24.jar",
+            "MD5": "e8ed62e5ae1ac3ab7567de4e7545e5c6"
+          }
+        },
+        {
+          "id": "net.blay09.mods:waystones:14.1.10@jar",
+          "name": "Waystones",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 487651,
+            "url": "https://kyliannbosch732-eng.github.io/MinecraftWorld-Distro/servers/MinecraftWorld-1.20.1/forgemods/required/waystones-forge-1.20.1-14.1.10.jar",
+            "MD5": "1d53bdf732660968e8771f3c53dd77eb"
           }
         }
       ]
