@@ -568,6 +568,16 @@
           }
         },
         {
+          "id": "dev.ftb.mods:ftbteams:2001.1.4@jar",
+          "name": "FTB Teams",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 240019,
+            "url": "https://kyliannbosch732-eng.github.io/MinecraftWorld-Distro/servers/MinecraftWorld-1.20.1/forgemods/required/ftb-teams-forge-2001.1.4.jar",
+            "MD5": "c3bc5ac7c14e198df40b2b448322f66a"
+          }
+        },
+        {
           "id": "dev.ftb.mods:ftbultimine:2001.1.8@jar",
           "name": "FTB Ultimine",
           "type": "ForgeMod",
