@@ -478,6 +478,16 @@
           }
         },
         {
+          "id": "artifacts:artifacts:9.5.19@jar",
+          "name": "Artifacts",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 850974,
+            "url": "https://kyliannbosch732-eng.github.io/MinecraftWorld-Distro/servers/MinecraftWorld-1.20.1/forgemods/required/artifacts-forge-9.5.19.jar",
+            "MD5": "54a59ba2d659e97aaff43264dd63e9c3"
+          }
+        },
+        {
           "id": "net.blay09.mods:balm:7.3.44@jar",
           "name": "Balm",
           "type": "ForgeMod",
@@ -564,6 +574,16 @@
           "artifact": {
             "size": 1255469,
             "url": "https://kyliannbosch732-eng.github.io/MinecraftWorld-Distro/servers/MinecraftWorld-1.20.1/forgemods/required/ftb-quests-forge-2001.4.22.jar",
+            "MD5": "a05a49243da4a2505413d74e13102b16"
+          }
+        },
+        {
+          "id": "dev.ftb.mods:ftbquests:2001.4.22@jar",
+          "name": "FTB Quests",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1255469,
+            "url": "https://kyliannbosch732-eng.github.io/MinecraftWorld-Distro/servers/MinecraftWorld-1.20.1/forgemods/required/ftb-quests-forge-2001.4.22%20(1).jar",
             "MD5": "a05a49243da4a2505413d74e13102b16"
           }
         },
@@ -754,6 +774,16 @@
           "artifact": {
             "size": 1734797,
             "url": "https://kyliannbosch732-eng.github.io/MinecraftWorld-Distro/servers/MinecraftWorld-1.20.1/forgemods/required/sophisticatedcore-1.20.1-1.5.1.2335.jar",
+            "MD5": "c7545991854e04e6568c5173810a2564"
+          }
+        },
+        {
+          "id": "net.p3pp3rf1y:sophisticatedcore:1.5.1.2335@jar",
+          "name": "Sophisticated Core",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1734797,
+            "url": "https://kyliannbosch732-eng.github.io/MinecraftWorld-Distro/servers/MinecraftWorld-1.20.1/forgemods/required/sophisticatedcore-1.20.1-1.5.1.2335%20(2).jar",
             "MD5": "c7545991854e04e6568c5173810a2564"
           }
         },
