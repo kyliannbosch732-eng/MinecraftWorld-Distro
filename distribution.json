@@ -426,6 +426,36 @@
               }
             }
           ]
+        },
+        {
+          "id": "me.jellysquid.mods.sodium.client:embeddium:0.3.32-beta.9999+mc1.20.1@jar",
+          "name": "Embeddium",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1346827,
+            "url": "https://kyliannbosch732-eng.github.io/MinecraftWorld-Distro/servers/MinecraftWorld-1.20.1/forgemods/required/embeddium-PHASE2-e3ec533.jar",
+            "MD5": "9c23a0ce151d948f17a490f8b29d82b0"
+          }
+        },
+        {
+          "id": "mezz.jei:jei:15.62.0.216@jar",
+          "name": "Just Enough Items",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 2231809,
+            "url": "https://kyliannbosch732-eng.github.io/MinecraftWorld-Distro/servers/MinecraftWorld-1.20.1/forgemods/required/jei-1.20.1-forge-15.62.0.216.jar",
+            "MD5": "4fcf3b4c7a41d3439e595f06c7cfe464"
+          }
+        },
+        {
+          "id": "net.irisshaders.iris:oculus:1.8.0@jar",
+          "name": "Oculus",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 2851119,
+            "url": "https://kyliannbosch732-eng.github.io/MinecraftWorld-Distro/servers/MinecraftWorld-1.20.1/forgemods/required/oculus-mc1.20.1-1.8.0.jar",
+            "MD5": "1dd891634ac21591b5a692471f112572"
+          }
         }
       ]
     }
