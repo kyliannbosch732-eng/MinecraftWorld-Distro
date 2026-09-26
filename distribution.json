@@ -498,6 +498,16 @@
           }
         },
         {
+          "id": "noobanidus.mods:lootr:0.7.35.94@jar",
+          "name": "Lootr",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 463485,
+            "url": "https://kyliannbosch732-eng.github.io/MinecraftWorld-Distro/servers/MinecraftWorld-1.20.1/forgemods/required/lootr-forge-1.20-0.7.35.94.jar",
+            "MD5": "56dd6966de4ba641cf00ef5b9ce8d2d7"
+          }
+        },
+        {
           "id": "org.embeddedt.modernfix.forge.init:modernfix:5.27.83+mc1.20.1@jar",
           "name": "ModernFix",
           "type": "ForgeMod",
