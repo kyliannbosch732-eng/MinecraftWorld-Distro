@@ -518,6 +518,16 @@
           }
         },
         {
+          "id": "codechicken.lib:codechickenlib:4.4.0.528@jar",
+          "name": "CodeChicken Lib",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1473536,
+            "url": "https://kyliannbosch732-eng.github.io/MinecraftWorld-Distro/servers/MinecraftWorld-1.20.1/forgemods/required/CodeChickenLib-1.20.1-4.4.0.528-universal.jar",
+            "MD5": "cd77cb33d92407fd0b5bf0b79d58af69"
+          }
+        },
+        {
           "id": "com.simibubi:create:6.0.8@jar",
           "name": "Create",
           "type": "ForgeMod",
@@ -555,6 +565,16 @@
             "size": 1346827,
             "url": "https://kyliannbosch732-eng.github.io/MinecraftWorld-Distro/servers/MinecraftWorld-1.20.1/forgemods/required/embeddium-PHASE2-e3ec533.jar",
             "MD5": "9c23a0ce151d948f17a490f8b29d82b0"
+          }
+        },
+        {
+          "id": "codechicken.enderstorage:enderstorage:2.11.0.188@jar",
+          "name": "EnderStorage",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 246017,
+            "url": "https://kyliannbosch732-eng.github.io/MinecraftWorld-Distro/servers/MinecraftWorld-1.20.1/forgemods/required/EnderStorage-1.20.1-2.11.0.188-universal.jar",
+            "MD5": "8c6cc85f76b45b52d5feef1baa10f764"
           }
         },
         {
@@ -625,6 +645,16 @@
             "size": 129653,
             "url": "https://kyliannbosch732-eng.github.io/MinecraftWorld-Distro/servers/MinecraftWorld-1.20.1/forgemods/required/ftb-ultimine-forge-2001.1.8.jar",
             "MD5": "a96e4705c8ce3bcac03608153ecceb05"
+          }
+        },
+        {
+          "id": "de.maxhenkel:gravestone:1.20.1-1.0.35@jar",
+          "name": "Gravestone Mod",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 317181,
+            "url": "https://kyliannbosch732-eng.github.io/MinecraftWorld-Distro/servers/MinecraftWorld-1.20.1/forgemods/required/gravestone-forge-1.20.1-1.0.35.jar",
+            "MD5": "1670e9771981e234ecca27bf0106d5cd"
           }
         },
         {
@@ -785,6 +815,16 @@
             "size": 282474,
             "url": "https://kyliannbosch732-eng.github.io/MinecraftWorld-Distro/servers/MinecraftWorld-1.20.1/forgemods/required/Placebo-1.20.1-8.6.3.jar",
             "MD5": "13133ab9989e8474931cd7a86bd19cc5"
+          }
+        },
+        {
+          "id": "dev.dediamondpro:resourcify:1.8.6@jar",
+          "name": "Resourcify",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 2947068,
+            "url": "https://kyliannbosch732-eng.github.io/MinecraftWorld-Distro/servers/MinecraftWorld-1.20.1/forgemods/required/Resourcify%20(1.20.1-forge)-1.8.6.jar",
+            "MD5": "f81d2c80ed17e038cb9a19a986a81f5e"
           }
         },
         {
