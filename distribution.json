@@ -598,6 +598,16 @@
           }
         },
         {
+          "id": "ore_hammer:ore_hammer:2.1.0@jar",
+          "name": "Ore Hammer",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 281347,
+            "url": "https://kyliannbosch732-eng.github.io/MinecraftWorld-Distro/servers/MinecraftWorld-1.20.1/forgemods/required/ore_hammer-2.1.0-forge-1.20.1.jar",
+            "MD5": "d3302e9d67047e49a5ce767de840db3b"
+          }
+        },
+        {
           "id": "net.p3pp3rf1y:sophisticatedbackpacks:3.26.3.2157@jar",
           "name": "Sophisticated Backpacks",
           "type": "ForgeMod",
