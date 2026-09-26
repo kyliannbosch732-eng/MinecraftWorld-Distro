@@ -508,6 +508,16 @@
           }
         },
         {
+          "id": "dev.ftb.mods:ftbultimine:2001.1.8@jar",
+          "name": "FTB Ultimine",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 129653,
+            "url": "https://kyliannbosch732-eng.github.io/MinecraftWorld-Distro/servers/MinecraftWorld-1.20.1/forgemods/required/ftb-ultimine-forge-2001.1.8.jar",
+            "MD5": "a96e4705c8ce3bcac03608153ecceb05"
+          }
+        },
+        {
           "id": "guideme:guideme:20.1.15@jar",
           "name": "GuideME",
           "type": "ForgeMod",
@@ -515,6 +525,16 @@
             "size": 9414827,
             "url": "https://kyliannbosch732-eng.github.io/MinecraftWorld-Distro/servers/MinecraftWorld-1.20.1/forgemods/required/guideme-20.1.15.jar",
             "MD5": "0d892c2b4af52459ac6a639040374916"
+          }
+        },
+        {
+          "id": "ironfurnaces:ironfurnaces:4.1.8@jar",
+          "name": "Iron Furnaces",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 612921,
+            "url": "https://kyliannbosch732-eng.github.io/MinecraftWorld-Distro/servers/MinecraftWorld-1.20.1/forgemods/required/ironfurnaces-1.20.1-4.1.8.jar",
+            "MD5": "cd22a9c8cd46953b03abd44ec0b33f94"
           }
         },
         {
@@ -615,6 +635,16 @@
             "size": 281347,
             "url": "https://kyliannbosch732-eng.github.io/MinecraftWorld-Distro/servers/MinecraftWorld-1.20.1/forgemods/required/ore_hammer-2.1.0-forge-1.20.1.jar",
             "MD5": "d3302e9d67047e49a5ce767de840db3b"
+          }
+        },
+        {
+          "id": "de.maxhenkel:pipez:1.20.1-1.2.26@jar",
+          "name": "Pipez",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 431615,
+            "url": "https://kyliannbosch732-eng.github.io/MinecraftWorld-Distro/servers/MinecraftWorld-1.20.1/forgemods/required/pipez-forge-1.20.1-1.2.26.jar",
+            "MD5": "1af664d7782630bebc8358a72fea4779"
           }
         },
         {
