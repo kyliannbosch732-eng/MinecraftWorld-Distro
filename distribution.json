@@ -428,6 +428,16 @@
           ]
         },
         {
+          "id": "net.mehvahdjukaar:amendments:1.20-2.2.6@jar",
+          "name": "Amendments",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1315525,
+            "url": "https://kyliannbosch732-eng.github.io/MinecraftWorld-Distro/servers/MinecraftWorld-1.20.1/forgemods/required/amendments-1.20-2.2.6.jar",
+            "MD5": "76580e095575d9ad8a699a25a3e46db0"
+          }
+        },
+        {
           "id": "appeng.core:ae2:15.4.10@jar",
           "name": "Applied Energistics 2",
           "type": "ForgeMod",
