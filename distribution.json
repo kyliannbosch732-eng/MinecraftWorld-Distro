@@ -538,6 +538,16 @@
           }
         },
         {
+          "id": "journeymap:journeymap:1.20.1-6.0.6@jar",
+          "name": "Journeymap",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 4349543,
+            "url": "https://kyliannbosch732-eng.github.io/MinecraftWorld-Distro/servers/MinecraftWorld-1.20.1/forgemods/required/journeymap-forge-1.20.1-6.0.6.jar",
+            "MD5": "45fdccf9e99d0ace71a23b930f3fbbaa"
+          }
+        },
+        {
           "id": "noobanidus.mods:lootr:0.7.35.94@jar",
           "name": "Lootr",
           "type": "ForgeMod",
