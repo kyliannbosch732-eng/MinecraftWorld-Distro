@@ -498,6 +498,16 @@
           }
         },
         {
+          "id": "me.shedaniel.clothconfig:cloth_config:11.1.136@jar",
+          "name": "Cloth Config v10 API",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1181413,
+            "url": "https://kyliannbosch732-eng.github.io/MinecraftWorld-Distro/servers/MinecraftWorld-1.20.1/forgemods/required/cloth-config-11.1.136-forge.jar",
+            "MD5": "ca5de5acbcb4a30c010aa6953bd7ef53"
+          }
+        },
+        {
           "id": "com.blamejared:clumps:12.0.0.4@jar",
           "name": "Clumps",
           "type": "ForgeMod",
@@ -525,6 +535,16 @@
             "size": 271462,
             "url": "https://kyliannbosch732-eng.github.io/MinecraftWorld-Distro/servers/MinecraftWorld-1.20.1/forgemods/required/Cucumber-1.20.1-7.0.16.jar",
             "MD5": "d7d34a7584041977e493198a666c2db4"
+          }
+        },
+        {
+          "id": "top.theillusivec4:curios:5.8.1+1.20.1@jar",
+          "name": "Curios API",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 380722,
+            "url": "https://kyliannbosch732-eng.github.io/MinecraftWorld-Distro/servers/MinecraftWorld-1.20.1/forgemods/required/curios-forge-5.8.1+1.20.1.jar",
+            "MD5": "01d88c09639a20569ac9dea5f4a33ea6"
           }
         },
         {
