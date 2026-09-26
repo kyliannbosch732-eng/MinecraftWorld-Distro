@@ -468,6 +468,16 @@
           }
         },
         {
+          "id": "com.blakebr0:cucumber:7.0.16@jar",
+          "name": "Cucumber Library",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 271462,
+            "url": "https://kyliannbosch732-eng.github.io/MinecraftWorld-Distro/servers/MinecraftWorld-1.20.1/forgemods/required/Cucumber-1.20.1-7.0.16.jar",
+            "MD5": "d7d34a7584041977e493198a666c2db4"
+          }
+        },
+        {
           "id": "me.jellysquid.mods.sodium.client:embeddium:0.3.32-beta.9999+mc1.20.1@jar",
           "name": "Embeddium",
           "type": "ForgeMod",
@@ -538,6 +548,16 @@
           }
         },
         {
+          "id": "mekanism:mekanism:10.4.16@jar",
+          "name": "Mekanism",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 12558456,
+            "url": "https://kyliannbosch732-eng.github.io/MinecraftWorld-Distro/servers/MinecraftWorld-1.20.1/forgemods/required/Mekanism-1.20.1-10.4.16.80.jar",
+            "MD5": "3791fb5cf1e8b6f583d3a00d5115d1ee"
+          }
+        },
+        {
           "id": "org.embeddedt.modernfix.forge.init:modernfix:5.27.83+mc1.20.1@jar",
           "name": "ModernFix",
           "type": "ForgeMod",
@@ -555,6 +575,16 @@
             "size": 1419416,
             "url": "https://kyliannbosch732-eng.github.io/MinecraftWorld-Distro/servers/MinecraftWorld-1.20.1/forgemods/required/moonlight-1.20-2.16.34-forge.jar",
             "MD5": "f80a05d17e669e9a5f40cf68821601ed"
+          }
+        },
+        {
+          "id": "com.blakebr0:mysticalagriculture:7.0.24@jar",
+          "name": "Mystical Agriculture",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 2372822,
+            "url": "https://kyliannbosch732-eng.github.io/MinecraftWorld-Distro/servers/MinecraftWorld-1.20.1/forgemods/required/MysticalAgriculture-1.20.1-7.0.24.jar",
+            "MD5": "a18226569270fc377fe3caf1089a3426"
           }
         },
         {
