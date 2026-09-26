@@ -428,6 +428,16 @@
           ]
         },
         {
+          "id": "appeng.core:ae2:15.4.10@jar",
+          "name": "Applied Energistics 2",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 8495956,
+            "url": "https://kyliannbosch732-eng.github.io/MinecraftWorld-Distro/servers/MinecraftWorld-1.20.1/forgemods/required/appliedenergistics2-forge-15.4.10.jar",
+            "MD5": "69e47ebd80184d34176cebeb6233a234"
+          }
+        },
+        {
           "id": "net.blay09.mods:balm:7.3.44@jar",
           "name": "Balm",
           "type": "ForgeMod",
@@ -445,6 +455,16 @@
             "size": 20299,
             "url": "https://kyliannbosch732-eng.github.io/MinecraftWorld-Distro/servers/MinecraftWorld-1.20.1/forgemods/required/Clumps-forge-1.20.1-12.0.0.4.jar",
             "MD5": "c9efc71827df6ab51e8dd0e40c3d4975"
+          }
+        },
+        {
+          "id": "com.simibubi:create:6.0.8@jar",
+          "name": "Create",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 19170905,
+            "url": "https://kyliannbosch732-eng.github.io/MinecraftWorld-Distro/servers/MinecraftWorld-1.20.1/forgemods/required/create-1.20.1-6.0.8.jar",
+            "MD5": "6ebc5c57638c1678359eac65b924c310"
           }
         },
         {
