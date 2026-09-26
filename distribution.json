@@ -498,6 +498,16 @@
           }
         },
         {
+          "id": "guideme:guideme:20.1.15@jar",
+          "name": "GuideME",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 9414827,
+            "url": "https://kyliannbosch732-eng.github.io/MinecraftWorld-Distro/servers/MinecraftWorld-1.20.1/forgemods/required/guideme-20.1.15.jar",
+            "MD5": "0d892c2b4af52459ac6a639040374916"
+          }
+        },
+        {
           "id": "snownee.jade:jade:11.13.3+forge@jar",
           "name": "Jade",
           "type": "ForgeMod",
