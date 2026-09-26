@@ -438,6 +438,16 @@
           }
         },
         {
+          "id": "com.blamejared:clumps:12.0.0.4@jar",
+          "name": "Clumps",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 20299,
+            "url": "https://kyliannbosch732-eng.github.io/MinecraftWorld-Distro/servers/MinecraftWorld-1.20.1/forgemods/required/Clumps-forge-1.20.1-12.0.0.4.jar",
+            "MD5": "c9efc71827df6ab51e8dd0e40c3d4975"
+          }
+        },
+        {
           "id": "me.jellysquid.mods.sodium.client:embeddium:0.3.32-beta.9999+mc1.20.1@jar",
           "name": "Embeddium",
           "type": "ForgeMod",
@@ -445,6 +455,26 @@
             "size": 1346827,
             "url": "https://kyliannbosch732-eng.github.io/MinecraftWorld-Distro/servers/MinecraftWorld-1.20.1/forgemods/required/embeddium-PHASE2-e3ec533.jar",
             "MD5": "9c23a0ce151d948f17a490f8b29d82b0"
+          }
+        },
+        {
+          "id": "vectorwing.farmersdelight:farmersdelight:1.20.1-1.3.4@jar",
+          "name": "Farmer's Delight",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 3311051,
+            "url": "https://kyliannbosch732-eng.github.io/MinecraftWorld-Distro/servers/MinecraftWorld-1.20.1/forgemods/required/FarmersDelight-1.20.1-1.3.4.jar",
+            "MD5": "a61302a31849ad9c37c6ac6e59268b75"
+          }
+        },
+        {
+          "id": "snownee.jade:jade:11.13.3+forge@jar",
+          "name": "Jade",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 553487,
+            "url": "https://kyliannbosch732-eng.github.io/MinecraftWorld-Distro/servers/MinecraftWorld-1.20.1/forgemods/required/Jade-1.20.1-Forge-11.13.3.jar",
+            "MD5": "a53aade6b5915ebe8357abb68cf1f778"
           }
         },
         {
