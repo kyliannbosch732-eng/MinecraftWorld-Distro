@@ -588,6 +588,16 @@
           }
         },
         {
+          "id": "de.maxhenkel.easyvillagers:easy_villagers:1.20.1-1.1.39@jar",
+          "name": "Easy Villagers",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 414686,
+            "url": "https://kyliannbosch732-eng.github.io/MinecraftWorld-Distro/servers/MinecraftWorld-1.20.1/forgemods/required/easy-villagers-forge-1.20.1-1.1.39.jar",
+            "MD5": "6f65152fb4ddaeb0bb2c49ea14446b2e"
+          }
+        },
+        {
           "id": "me.jellysquid.mods.sodium.client:embeddium:0.3.32-beta.9999+mc1.20.1@jar",
           "name": "Embeddium",
           "type": "ForgeMod",
@@ -935,6 +945,16 @@
             "size": 282474,
             "url": "https://kyliannbosch732-eng.github.io/MinecraftWorld-Distro/servers/MinecraftWorld-1.20.1/forgemods/required/Placebo-1.20.1-8.6.3.jar",
             "MD5": "13133ab9989e8474931cd7a86bd19cc5"
+          }
+        },
+        {
+          "id": "net.permutated:pylons:4.3.0@jar",
+          "name": "Pylons",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 145274,
+            "url": "https://kyliannbosch732-eng.github.io/MinecraftWorld-Distro/servers/MinecraftWorld-1.20.1/forgemods/required/pylons-1.20.1-4.3.0.jar",
+            "MD5": "2b1a16df826cabaff2698cfbca1e332e"
           }
         },
         {
