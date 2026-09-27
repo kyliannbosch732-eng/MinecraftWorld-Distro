@@ -748,6 +748,16 @@
           }
         },
         {
+          "id": "mob_grinding_utils:mob_grinding_utils:1.20.1-1.1.0@jar",
+          "name": "Mob Grinding Utils",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1357176,
+            "url": "https://kyliannbosch732-eng.github.io/MinecraftWorld-Distro/servers/MinecraftWorld-1.20.1/forgemods/required/mob_grinding_utils-1.20.1-1.1.0.jar",
+            "MD5": "74fface69f2b44f862366c29b3b35f55"
+          }
+        },
+        {
           "id": "org.embeddedt.modernfix.forge.init:modernfix:5.27.83+mc1.20.1@jar",
           "name": "ModernFix",
           "type": "ForgeMod",
