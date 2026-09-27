@@ -498,6 +498,16 @@
           }
         },
         {
+          "id": "dzwdz.chat_heads:chat_heads:0.15.7@jar",
+          "name": "Chat Heads",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 724902,
+            "url": "https://kyliannbosch732-eng.github.io/MinecraftWorld-Distro/servers/MinecraftWorld-1.20.1/forgemods/required/chat_heads-0.15.7-forge-1.20.jar",
+            "MD5": "edf017b1081ed0fc16e6409b79b90db6"
+          }
+        },
+        {
           "id": "me.shedaniel.clothconfig:cloth_config:11.1.136@jar",
           "name": "Cloth Config v10 API",
           "type": "ForgeMod",
@@ -775,6 +785,16 @@
             "size": 1419416,
             "url": "https://kyliannbosch732-eng.github.io/MinecraftWorld-Distro/servers/MinecraftWorld-1.20.1/forgemods/required/moonlight-1.20-2.16.34-forge.jar",
             "MD5": "f80a05d17e669e9a5f40cf68821601ed"
+          }
+        },
+        {
+          "id": "com.blakebr0:mysticalagradditions:7.0.12@jar",
+          "name": "Mystical Agradditions",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 335056,
+            "url": "https://kyliannbosch732-eng.github.io/MinecraftWorld-Distro/servers/MinecraftWorld-1.20.1/forgemods/required/MysticalAgradditions-1.20.1-7.0.12.jar",
+            "MD5": "ffc54a21effcee517c6eb5dd40087c9b"
           }
         },
         {
