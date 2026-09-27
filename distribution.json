@@ -558,6 +558,16 @@
           }
         },
         {
+          "id": "com.ofek2608:crafting_on_a_stick:1.1.5@jar",
+          "name": "Crafting On A Stick",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 55252,
+            "url": "https://kyliannbosch732-eng.github.io/MinecraftWorld-Distro/servers/MinecraftWorld-1.20.1/forgemods/required/crafting-on-a-stick-1.20.1-1.1.5.jar",
+            "MD5": "8158077880aea9cacd4eabb6f47b67b9"
+          }
+        },
+        {
           "id": "com.simibubi:create:6.0.8@jar",
           "name": "Create",
           "type": "ForgeMod",
@@ -615,6 +625,16 @@
             "size": 246017,
             "url": "https://kyliannbosch732-eng.github.io/MinecraftWorld-Distro/servers/MinecraftWorld-1.20.1/forgemods/required/EnderStorage-1.20.1-2.11.0.188-universal.jar",
             "MD5": "8c6cc85f76b45b52d5feef1baa10f764"
+          }
+        },
+        {
+          "id": "com.glodblock.github.extendedae:expatternprovider:1.20-1.4.21-forge@jar",
+          "name": "ExtendedAE",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 2972843,
+            "url": "https://kyliannbosch732-eng.github.io/MinecraftWorld-Distro/servers/MinecraftWorld-1.20.1/forgemods/required/ExtendedAE-1.20-1.4.21-forge.jar",
+            "MD5": "6b2bb5675abc9178b96755990f2f3fab"
           }
         },
         {
@@ -705,6 +725,16 @@
             "size": 129653,
             "url": "https://kyliannbosch732-eng.github.io/MinecraftWorld-Distro/servers/MinecraftWorld-1.20.1/forgemods/required/ftb-ultimine-forge-2001.1.8.jar",
             "MD5": "a96e4705c8ce3bcac03608153ecceb05"
+          }
+        },
+        {
+          "id": "com.glodblock.github:glodium:1.20-1.5-forge@jar",
+          "name": "Glodium",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 60550,
+            "url": "https://kyliannbosch732-eng.github.io/MinecraftWorld-Distro/servers/MinecraftWorld-1.20.1/forgemods/required/Glodium-1.20-1.5-forge.jar",
+            "MD5": "fc1d04ddd88b378780041d5f06d50f8a"
           }
         },
         {
@@ -895,6 +925,16 @@
             "size": 2372822,
             "url": "https://kyliannbosch732-eng.github.io/MinecraftWorld-Distro/servers/MinecraftWorld-1.20.1/forgemods/required/MysticalAgriculture-1.20.1-7.0.24.jar",
             "MD5": "a18226569270fc377fe3caf1089a3426"
+          }
+        },
+        {
+          "id": "com.blakebr0:mysticalcustomization:5.0.3@jar",
+          "name": "Mystical Customization",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 47130,
+            "url": "https://kyliannbosch732-eng.github.io/MinecraftWorld-Distro/servers/MinecraftWorld-1.20.1/forgemods/required/MysticalCustomization-1.20.1-5.0.3.jar",
+            "MD5": "686fcd5fa0e95268d6a75d42a23919e0"
           }
         },
         {
