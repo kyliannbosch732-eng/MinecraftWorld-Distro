@@ -628,6 +628,16 @@
           }
         },
         {
+          "id": "com.mrcrayfish:framework:0.6.13@jar",
+          "name": "Framework",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 289614,
+            "url": "https://kyliannbosch732-eng.github.io/MinecraftWorld-Distro/servers/MinecraftWorld-1.20.1/forgemods/required/framework-forge-1.20.1-0.6.13.jar",
+            "MD5": "1db6024d72e996028ee19d09c02c748c"
+          }
+        },
+        {
           "id": "dev.ftb.mods:ftblibrary:2001.2.13@jar",
           "name": "FTB Library",
           "type": "ForgeMod",
@@ -705,6 +715,16 @@
             "size": 9414827,
             "url": "https://kyliannbosch732-eng.github.io/MinecraftWorld-Distro/servers/MinecraftWorld-1.20.1/forgemods/required/guideme-20.1.15.jar",
             "MD5": "0d892c2b4af52459ac6a639040374916"
+          }
+        },
+        {
+          "id": "com.anthonyhilyard:iceberg:1.1.25@jar",
+          "name": "Iceberg",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 134551,
+            "url": "https://kyliannbosch732-eng.github.io/MinecraftWorld-Distro/servers/MinecraftWorld-1.20.1/forgemods/required/Iceberg-1.20.1-forge-1.1.25.jar",
+            "MD5": "cda8af806d0de012f5c7012ea51c155f"
           }
         },
         {
