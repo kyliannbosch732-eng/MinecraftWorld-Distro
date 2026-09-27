@@ -428,6 +428,16 @@
           ]
         },
         {
+          "id": "com.anthonyhilyard:advancementplaques:1.6.9@jar",
+          "name": "Advancement Plaques",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 208850,
+            "url": "https://kyliannbosch732-eng.github.io/MinecraftWorld-Distro/servers/MinecraftWorld-1.20.1/forgemods/required/AdvancementPlaques-1.20.1-forge-1.6.9.jar",
+            "MD5": "508c73f2941ae3d48cbf197ba390ecdd"
+          }
+        },
+        {
           "id": "net.mehvahdjukaar:amendments:1.20-2.2.6@jar",
           "name": "Amendments",
           "type": "ForgeMod",
@@ -588,6 +598,16 @@
           }
         },
         {
+          "id": "com.podloot:eyemod:3.0.0@jar",
+          "name": "EyeMod",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 432098,
+            "url": "https://kyliannbosch732-eng.github.io/MinecraftWorld-Distro/servers/MinecraftWorld-1.20.1/forgemods/required/eyemod-3.0.0.jar",
+            "MD5": "e977511b6f65d208ea8889205c9f48e1"
+          }
+        },
+        {
           "id": "vectorwing.farmersdelight:farmersdelight:1.20.1-1.3.4@jar",
           "name": "Farmer's Delight",
           "type": "ForgeMod",
@@ -655,6 +675,16 @@
             "size": 129653,
             "url": "https://kyliannbosch732-eng.github.io/MinecraftWorld-Distro/servers/MinecraftWorld-1.20.1/forgemods/required/ftb-ultimine-forge-2001.1.8.jar",
             "MD5": "a96e4705c8ce3bcac03608153ecceb05"
+          }
+        },
+        {
+          "id": "com.mrcrayfish:goblintraders:1.11.5@jar",
+          "name": "Goblin Traders",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 328727,
+            "url": "https://kyliannbosch732-eng.github.io/MinecraftWorld-Distro/servers/MinecraftWorld-1.20.1/forgemods/required/goblintraders-forge-1.20.1-1.11.5.jar",
+            "MD5": "2d7e09aa226d32806c63ecd5bea64d32"
           }
         },
         {
