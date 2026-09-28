@@ -788,13 +788,13 @@
           }
         },
         {
-          "id": "ironfurnaces:ironfurnaces:4.1.8@jar",
+          "id": "ironfurnaces:ironfurnaces:4.1.6@jar",
           "name": "Iron Furnaces",
           "type": "ForgeMod",
           "artifact": {
-            "size": 612921,
-            "url": "https://kyliannbosch732-eng.github.io/MinecraftWorld-Distro/servers/MinecraftWorld-1.20.1/forgemods/required/ironfurnaces-1.20.1-4.1.8.jar",
-            "MD5": "cd22a9c8cd46953b03abd44ec0b33f94"
+            "size": 609038,
+            "url": "https://kyliannbosch732-eng.github.io/MinecraftWorld-Distro/servers/MinecraftWorld-1.20.1/forgemods/required/ironfurnaces-1.20.1-4.1.6.jar",
+            "MD5": "db76ec4beef580f5d7b75065ec2adf9d"
           }
         },
         {
