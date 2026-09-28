@@ -568,6 +568,16 @@
           }
         },
         {
+          "id": "com.corosus.coroutil.loader:coroutil:1.20.1-1.3.7@jar",
+          "name": "CoroUtil",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 64187,
+            "url": "https://kyliannbosch732-eng.github.io/MinecraftWorld-Distro/servers/MinecraftWorld-1.20.1/forgemods/required/coroutil-forge-1.20.1-1.3.7.jar",
+            "MD5": "6fb9ccbe8c05c1da61c224d1127e9643"
+          }
+        },
+        {
           "id": "com.ofek2608:crafting_on_a_stick:1.1.5@jar",
           "name": "Crafting On A Stick",
           "type": "ForgeMod",
@@ -598,13 +608,13 @@
           }
         },
         {
-          "id": "top.theillusivec4:curios:5.8.1+1.20.1@jar",
+          "id": "top.theillusivec4:curios:5.14.1+1.20.1@jar",
           "name": "Curios API",
           "type": "ForgeMod",
           "artifact": {
-            "size": 380722,
-            "url": "https://kyliannbosch732-eng.github.io/MinecraftWorld-Distro/servers/MinecraftWorld-1.20.1/forgemods/required/curios-forge-5.8.1+1.20.1.jar",
-            "MD5": "01d88c09639a20569ac9dea5f4a33ea6"
+            "size": 398066,
+            "url": "https://kyliannbosch732-eng.github.io/MinecraftWorld-Distro/servers/MinecraftWorld-1.20.1/forgemods/required/curios-forge-5.14.1+1.20.1.jar",
+            "MD5": "2fdcc97cbc66c4b2492b407c792e7159"
           }
         },
         {
@@ -848,6 +858,16 @@
           }
         },
         {
+          "id": "jeresources:jeresources:1.4.0.247@jar",
+          "name": "Just Enough Resources",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 276231,
+            "url": "https://kyliannbosch732-eng.github.io/MinecraftWorld-Distro/servers/MinecraftWorld-1.20.1/forgemods/required/JustEnoughResources-1.20.1-1.4.0.247.jar",
+            "MD5": "bd7166a2e9361ef5e8b616edfa2028f4"
+          }
+        },
+        {
           "id": "generated.forgemod:kotlinforforge:4.11.0-all@jar",
           "name": "Kotlinforforge",
           "type": "ForgeMod",
@@ -865,6 +885,16 @@
             "size": 463485,
             "url": "https://kyliannbosch732-eng.github.io/MinecraftWorld-Distro/servers/MinecraftWorld-1.20.1/forgemods/required/lootr-forge-1.20-0.7.35.94.jar",
             "MD5": "56dd6966de4ba641cf00ef5b9ce8d2d7"
+          }
+        },
+        {
+          "id": "com.november:mcphone:1.10.2@jar",
+          "name": "MCphone",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 990515,
+            "url": "https://kyliannbosch732-eng.github.io/MinecraftWorld-Distro/servers/MinecraftWorld-1.20.1/forgemods/required/mcphone-1.10.2-1.20.1-forge.jar",
+            "MD5": "881a7f4971eea514e4f983453d5b9108"
           }
         },
         {
@@ -1058,6 +1088,26 @@
           }
         },
         {
+          "id": "com.supermartijn642.configlib:supermartijn642configlib:1.1.8@jar",
+          "name": "SuperMartijn642's Config Library",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 206584,
+            "url": "https://kyliannbosch732-eng.github.io/MinecraftWorld-Distro/servers/MinecraftWorld-1.20.1/forgemods/required/supermartijn642configlib-1.1.8-forge-mc1.20.jar",
+            "MD5": "cbece61946d4e059e90806c19dd66082"
+          }
+        },
+        {
+          "id": "com.supermartijn642.core:supermartijn642corelib:1.1.24+b@jar",
+          "name": "SuperMartijn642's Core Lib",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 559482,
+            "url": "https://kyliannbosch732-eng.github.io/MinecraftWorld-Distro/servers/MinecraftWorld-1.20.1/forgemods/required/supermartijn642corelib-1.1.24b-forge-mc1.20.1.jar",
+            "MD5": "01a8afd7bb65b8dfa4791532586cadff"
+          }
+        },
+        {
           "id": "net.mehvahdjukaar:supplementaries:1.20-3.1.43-forge@jar",
           "name": "Supplementaries",
           "type": "ForgeMod",
@@ -1068,6 +1118,16 @@
           }
         },
         {
+          "id": "com.supermartijn642:trashcans:1.1.1@jar",
+          "name": "Trash Cans",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 168818,
+            "url": "https://kyliannbosch732-eng.github.io/MinecraftWorld-Distro/servers/MinecraftWorld-1.20.1/forgemods/required/trashcans-1.1.1-forge-mc1.20.4.jar",
+            "MD5": "5c621892ac21d051039491828edb557d"
+          }
+        },
+        {
           "id": "de.maxhenkel.voicechat:voicechat:1.20.1-2.6.24@jar",
           "name": "Simple Voice Chat",
           "type": "ForgeMod",
@@ -1075,6 +1135,16 @@
             "size": 4939842,
             "url": "https://kyliannbosch732-eng.github.io/MinecraftWorld-Distro/servers/MinecraftWorld-1.20.1/forgemods/required/voicechat-forge-1.20.1-2.6.24.jar",
             "MD5": "e8ed62e5ae1ac3ab7567de4e7545e5c6"
+          }
+        },
+        {
+          "id": "com.corosus.watut.loader:watut:1.20.1-1.2.3@jar",
+          "name": "What Are They Up To",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 435496,
+            "url": "https://kyliannbosch732-eng.github.io/MinecraftWorld-Distro/servers/MinecraftWorld-1.20.1/forgemods/required/watut-forge-1.20.1-1.2.3.jar",
+            "MD5": "345d3ecdf94dffaa0e3ba55538c65f80"
           }
         },
         {
