@@ -1266,6 +1266,17 @@
             "url": "https://kyliannbosch732-eng.github.io/MinecraftWorld-Distro/servers/MinecraftWorld-1.20.1/forgemods/required/waystones-forge-1.20.1-14.1.21.jar",
             "MD5": "d61d808c97ffd5a48c8b58969219b557"
           }
+        },
+        {
+          "id": "MinecraftWorld_Halloween_Music.zip",
+          "name": "MinecraftWorld_Halloween_Music.zip",
+          "type": "File",
+          "artifact": {
+            "size": 2352189,
+            "url": "https://kyliannbosch732-eng.github.io/MinecraftWorld-Distro/servers/MinecraftWorld-1.20.1/files/resourcepacks/MinecraftWorld_Halloween_Music.zip",
+            "MD5": "5adc0a5a21bc51d038eb9eee2b098e71",
+            "path": "resourcepacks/MinecraftWorld_Halloween_Music.zip"
+          }
         }
       ]
     }
