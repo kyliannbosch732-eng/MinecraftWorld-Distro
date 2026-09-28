@@ -1058,13 +1058,13 @@
           }
         },
         {
-          "id": "it.hurts.sskirillss:octolib:0.3@jar",
+          "id": "it.hurts.octostudios:octolib:0.4.2@jar",
           "name": "OctoLib",
           "type": "ForgeMod",
           "artifact": {
-            "size": 280821,
-            "url": "https://kyliannbosch732-eng.github.io/MinecraftWorld-Distro/servers/MinecraftWorld-1.20.1/forgemods/required/octolib-1.20.1-0.3.jar",
-            "MD5": "23bb3e20d88c4a9ed504c8ad4c491278"
+            "size": 401032,
+            "url": "https://kyliannbosch732-eng.github.io/MinecraftWorld-Distro/servers/MinecraftWorld-1.20.1/forgemods/required/OctoLib-FORGE-0.4.2+1.20.1.jar",
+            "MD5": "1d54e1330f1f89a2544eeae005c3a4a6"
           }
         },
         {
