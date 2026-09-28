@@ -428,6 +428,16 @@
           ]
         },
         {
+          "id": "net.pedroksl:advanced_ae:1.3.6-1.20.1@jar",
+          "name": "Advanced AE",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 2486306,
+            "url": "https://kyliannbosch732-eng.github.io/MinecraftWorld-Distro/servers/MinecraftWorld-1.20.1/forgemods/required/AdvancedAE-1.3.6-1.20.1.jar",
+            "MD5": "cf3465436ef170b81cb78adbc628138f"
+          }
+        },
+        {
           "id": "com.anthonyhilyard:advancementplaques:1.6.9@jar",
           "name": "Advancement Plaques",
           "type": "ForgeMod",
@@ -518,6 +528,16 @@
           }
         },
         {
+          "id": "me.treyruffy:betterf3:7.0.2@jar",
+          "name": "BetterF3",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 468517,
+            "url": "https://kyliannbosch732-eng.github.io/MinecraftWorld-Distro/servers/MinecraftWorld-1.20.1/forgemods/required/BetterF3-7.0.2-Forge-1.20.1.jar",
+            "MD5": "7411ae023390cf6b148f05a6b685279f"
+          }
+        },
+        {
           "id": "de.maxhenkel:camera:1.20.1-1.0.20@jar",
           "name": "Camera Mod",
           "type": "ForgeMod",
@@ -525,6 +545,16 @@
             "size": 299726,
             "url": "https://kyliannbosch732-eng.github.io/MinecraftWorld-Distro/servers/MinecraftWorld-1.20.1/forgemods/required/camera-forge-1.20.1-1.0.20.jar",
             "MD5": "7f707898d1ed0753a5a5043cbdf806a8"
+          }
+        },
+        {
+          "id": "com.mrcrayfish.furniture:cfm:7.0.0-pre36@jar",
+          "name": "MrCrayfish's Furniture Mod",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 2613393,
+            "url": "https://kyliannbosch732-eng.github.io/MinecraftWorld-Distro/servers/MinecraftWorld-1.20.1/forgemods/required/cfm-forge-1.20.1-7.0.0-pre36.jar",
+            "MD5": "faf78627dad9c9c04e7a4fa8992c54dc"
           }
         },
         {
@@ -628,6 +658,16 @@
           }
         },
         {
+          "id": "generated.forgemod:eatinganimation:5.1.0@jar",
+          "name": "Eating Animation",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 294792,
+            "url": "https://kyliannbosch732-eng.github.io/MinecraftWorld-Distro/servers/MinecraftWorld-1.20.1/forgemods/required/eatinganimation-1.20.1-5.1.0.jar",
+            "MD5": "fed01f18bc67d277e1ae9d4694d18659"
+          }
+        },
+        {
           "id": "me.jellysquid.mods.sodium.client:embeddium:0.3.32-beta.9999+mc1.20.1@jar",
           "name": "Embeddium",
           "type": "ForgeMod",
@@ -685,6 +725,16 @@
             "size": 123034,
             "url": "https://kyliannbosch732-eng.github.io/MinecraftWorld-Distro/servers/MinecraftWorld-1.20.1/forgemods/required/ferritecore-6.0.1-forge.jar",
             "MD5": "f52f538207a4829d7060550092ce2383"
+          }
+        },
+        {
+          "id": "org.thinkingstudio:forgematica:0.1.13-mc1.20.1@jar",
+          "name": "Forgematica",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 997501,
+            "url": "https://kyliannbosch732-eng.github.io/MinecraftWorld-Distro/servers/MinecraftWorld-1.20.1/forgemods/required/Forgematica-0.1.13-mc1.20.1.jar",
+            "MD5": "8def10203e22c87e5820ecf2efd14184"
           }
         },
         {
@@ -748,6 +798,16 @@
           }
         },
         {
+          "id": "software.bernie.example:geckolib:4.8.4@jar",
+          "name": "GeckoLib 4",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1038209,
+            "url": "https://kyliannbosch732-eng.github.io/MinecraftWorld-Distro/servers/MinecraftWorld-1.20.1/forgemods/required/geckolib-forge-1.20.1-4.8.4.jar",
+            "MD5": "83c73bcbf5778235569025ed968dc3ec"
+          }
+        },
+        {
           "id": "com.glodblock.github:glodium:1.20-1.5-forge@jar",
           "name": "Glodium",
           "type": "ForgeMod",
@@ -755,6 +815,16 @@
             "size": 60550,
             "url": "https://kyliannbosch732-eng.github.io/MinecraftWorld-Distro/servers/MinecraftWorld-1.20.1/forgemods/required/Glodium-1.20-1.5-forge.jar",
             "MD5": "fc1d04ddd88b378780041d5f06d50f8a"
+          }
+        },
+        {
+          "id": "generated.forgemod:gml:4.0.11-all@jar",
+          "name": "Gml",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 11125541,
+            "url": "https://kyliannbosch732-eng.github.io/MinecraftWorld-Distro/servers/MinecraftWorld-1.20.1/forgemods/required/gml-4.0.11-all.jar",
+            "MD5": "a21fb78c8d565623de7530893bf6f7ca"
           }
         },
         {
@@ -888,6 +958,16 @@
           }
         },
         {
+          "id": "org.thinkingstudio:mafglib:0.1.13-mc1.20.1@jar",
+          "name": "MaFgLib",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 521351,
+            "url": "https://kyliannbosch732-eng.github.io/MinecraftWorld-Distro/servers/MinecraftWorld-1.20.1/forgemods/required/MaFgLib-0.1.13-mc1.20.1.jar",
+            "MD5": "36866875120ec3ed767aedb3050aed2e"
+          }
+        },
+        {
           "id": "com.november:mcphone:1.10.2@jar",
           "name": "MCphone",
           "type": "ForgeMod",
@@ -978,6 +1058,16 @@
           }
         },
         {
+          "id": "it.hurts.sskirillss:octolib:0.3@jar",
+          "name": "OctoLib",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 280821,
+            "url": "https://kyliannbosch732-eng.github.io/MinecraftWorld-Distro/servers/MinecraftWorld-1.20.1/forgemods/required/octolib-1.20.1-0.3.jar",
+            "MD5": "23bb3e20d88c4a9ed504c8ad4c491278"
+          }
+        },
+        {
           "id": "net.irisshaders.iris:oculus:1.8.0@jar",
           "name": "Oculus",
           "type": "ForgeMod",
@@ -1035,6 +1125,16 @@
             "size": 145274,
             "url": "https://kyliannbosch732-eng.github.io/MinecraftWorld-Distro/servers/MinecraftWorld-1.20.1/forgemods/required/pylons-1.20.1-4.3.0.jar",
             "MD5": "2b1a16df826cabaff2698cfbca1e332e"
+          }
+        },
+        {
+          "id": "it.hurts.sskirillss:relics:0.8.0.13@jar",
+          "name": "Relics",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1521089,
+            "url": "https://kyliannbosch732-eng.github.io/MinecraftWorld-Distro/servers/MinecraftWorld-1.20.1/forgemods/required/relics-1.20.1-0.8.0.13.jar",
+            "MD5": "8e8a8beb1ac0776448dfbcec179734a1"
           }
         },
         {
@@ -1115,6 +1215,16 @@
             "size": 13667742,
             "url": "https://kyliannbosch732-eng.github.io/MinecraftWorld-Distro/servers/MinecraftWorld-1.20.1/forgemods/required/supplementaries-1.20-3.1.43-forge.jar",
             "MD5": "31e94bb39e718edf97d49d8c67ac941a"
+          }
+        },
+        {
+          "id": "de.maxhenkel.tradecycling:trade_cycling:1.20.1-1.0.18@jar",
+          "name": "Trade Cycling",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 84453,
+            "url": "https://kyliannbosch732-eng.github.io/MinecraftWorld-Distro/servers/MinecraftWorld-1.20.1/forgemods/required/trade-cycling-forge-1.20.1-1.0.18.jar",
+            "MD5": "0f9b2cf58bf84a3fa1e203f21b199874"
           }
         },
         {
