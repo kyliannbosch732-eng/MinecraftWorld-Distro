@@ -518,6 +518,16 @@
           }
         },
         {
+          "id": "de.maxhenkel:camera:1.20.1-1.0.20@jar",
+          "name": "Camera Mod",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 299726,
+            "url": "https://kyliannbosch732-eng.github.io/MinecraftWorld-Distro/servers/MinecraftWorld-1.20.1/forgemods/required/camera-forge-1.20.1-1.0.20.jar",
+            "MD5": "7f707898d1ed0753a5a5043cbdf806a8"
+          }
+        },
+        {
           "id": "dzwdz.chat_heads:chat_heads:0.15.7@jar",
           "name": "Chat Heads",
           "type": "ForgeMod",
